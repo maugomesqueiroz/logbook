@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "name":"Scrapy",
+      "url":"",
+      "desc":"Web Scraper"
+    },
+    {
+      "name":"Twitter Bot",
+      "url":"",
+      "desc":"Python twitter bot"
+    }
+  ]
+}
